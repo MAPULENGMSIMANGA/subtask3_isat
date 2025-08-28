@@ -3,7 +3,7 @@
 using namespace std;
 
 const int MAX_ORDERS = 50;
-const double 
+const double PRICE_PER_MAGWINYA = 5.25;
 
 int orderIDs[MAX_ORDERS];
 string customers[MAX_ORDERS];
